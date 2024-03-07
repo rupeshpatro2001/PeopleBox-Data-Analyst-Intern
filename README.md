@@ -18,7 +18,7 @@ Employees: Contains information about employees such as ID, name, department, lo
 Responses: Contains the responses to the survey, including the driver name, score, and employee ID.
 
 ### Usage
-Fork the db-fiddle using the provided
+Fork the db-fiddle using the provided :- https://www.db-fiddle.com/f/cu4V1QUpsfM8vtRKYDSmTC/2
 ### Google Sheet
 The summarized results can be viewed in this
 
