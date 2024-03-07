@@ -20,5 +20,5 @@ Responses: Contains the responses to the survey, including the driver name, scor
 ### Usage
 Fork the db-fiddle using the provided :- https://www.db-fiddle.com/f/cu4V1QUpsfM8vtRKYDSmTC/2
 ### Google Sheet
-The summarized results can be viewed in this
+The summarized results can be viewed in this:- https://docs.google.com/spreadsheets/d/1cEKCRZOktj476BiOeYkT73Nyq3F7cIKdvnCSgRSwZrE/edit?usp=sharing
 
