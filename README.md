@@ -3,10 +3,10 @@ In this repository, I have included the transformation scripts and documentation
 
 ## Exercise 1: Historical Employee Records Transformation
 
-Objective: Transform current employee data into a historical, row-based versioning format.
-Input: 'input.csv' containing employee data.
-Output: 'output.csv' containing transformed employee records.
-Google Colab: You can also run this transformation process in Google Colab using the provided link.
+1:- Objective: Transform current employee data into a historical, row-based versioning format.
+2:- Input: 'input.csv' containing employee data.
+3:- Output: 'output.csv' containing transformed employee records.
+4:- Google Colab: You can also run this transformation process in Google Colab using the provided link:- https://colab.research.google.com/drive/1ZFKl1yMpjUsvLYM8RgoJ9bxR66Q73eti?usp=sharing
 
 ## Exercise 2: Survey Response Analysis
 
